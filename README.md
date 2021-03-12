@@ -2,6 +2,7 @@
 Database assignment from KEA for Coderstrust Academy
 
 First and foremost you will need to install (or have installed) MySQL Workbench version 8.0.23 or newer, you can find it here (make sure its for the OS that you use): https://dev.mysql.com/downloads/windows/installer/8.0.html
+
 Having trouble installing MySQL? Follow this link for a quick tutorial: https://www.youtube.com/watch?v=u96rVINbAUI
 
 After having installed MySQL, download the 3 SQL scripts found in the folder called "SQL Scripts" in this repository. The scripts are named "Grp38INT-DDL_Queries", "Grp38INT-DML_Queries" and "Grp38INT-Example_Functions".
